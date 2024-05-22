@@ -1,4 +1,3 @@
-# Certainly, here's a refined description for your README file:
 
 ---
 
